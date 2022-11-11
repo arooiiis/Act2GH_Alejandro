@@ -3,6 +3,7 @@
 ### He creado este fichero para especificar los pasos realizados en la tarea:
 
 1. Creación de un programa de Java en el que se realiza la siguiente función:
+- Bolita
 ```
 - Crea y rellena un array de 20 posiciones con números aleatorios entre 1 y 10.
 ```
