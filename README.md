@@ -9,9 +9,10 @@ git status
 git add
 ```
 ```
-git commit ![image](https://cdn3.emoji.gg/emojis/2124_peepoClown.png)
+git commit
 ```
 ```
 git push
 ```
-
+## Imagen
+![image](https://cdn3.emoji.gg/emojis/2124_peepoClown.png)
