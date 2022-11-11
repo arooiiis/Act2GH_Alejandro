@@ -5,7 +5,7 @@
 1. Creación de un programa de Java en el que se realiza la siguiente función:
 ```
 - Crea y rellena un array de 20 posiciones con números aleatorios entre 1 y 10.
-´´´
+```
 
 2. Clonado a mi repositorio local.
 
@@ -16,13 +16,15 @@
 5. Creación de una rama llamada "rama1" 
 
 6. Añadido un método al programa Java en el que se realiza la siguiente función:
+```
 - Imprime por pantalla el contenido del array.
-
+```
 7. Creción de una rama llamada "rama2" desde la rama1.
 
 8. Añadido un método al programa Java en el que se realiza la siguiente función:
+```
 - Contar el número de veces que aparece cada número en el array
-
+```
 9. Fusión entre rama1 y rama2 y etiquetado como V2.0.
 
 10. Desde la rama main, se modifica el programa para que el array contenga en vez de 20 números, 30.
