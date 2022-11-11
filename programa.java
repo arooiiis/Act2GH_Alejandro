@@ -9,11 +9,11 @@ public class MathRandom {
       System.out.println(array[i]);
     } // Al tener ya creado el system.out.print mostrando el contenido del array, añado este
 =======
-    int[] numeros = new int[20];
+    int[] numeros = new int[30];
     int[] vecesNumeros = new int[10];
     int i = 0;
 
-    for (i = 0; i < 20; i++) {
+    for (i = 0; i < 30; i++) {
       numeros[i] = (int)(Math.random()*10+1);
 
       switch (numeros[i]) {
